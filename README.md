@@ -10,7 +10,7 @@ The reason for the mirror is to provide a Maven repo through jitpack.io.
 
 
 ##Usage
-To get HttpClientAndroidLib as a dependency in you Maven project, first add the jitpack.io repo:
+To get HttpClientAndroidLib as a dependency in your Maven project, first add the jitpack.io repo:
 ``` xml
 <repository>
   <id>jitpack.io</id>
