@@ -1,6 +1,6 @@
 # HttpClientAndroidLib
 A mirror of https://code.google.com/p/httpclientandroidlib by [Dirk Boye](https://github.com/dirkboye/); 
-a Android port of Apache's HttpComponents library (version 4.2.3).
+an Android port of Apache's HttpComponents library (version 4.2.3).
 
 The purpose of this project is to resolve issues in which Java projects that depend on Apache's HttpComponents 
 version 4.2.x do not work properly on Android. This library provides a solution to this (though it usually requires forking the
